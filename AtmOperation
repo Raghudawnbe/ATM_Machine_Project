@@ -1,4 +1,4 @@
-package ATM;
+package Atmproject;
 
 import java.util.HashMap;
 import java.util.Map;
